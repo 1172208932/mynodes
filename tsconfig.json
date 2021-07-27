@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "baseUrl": ".",
+    "outDir": "dist/types",
+    "target": "es5",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "noUnusedLocals": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "removeComments": false,
+    "noEmitHelpers": true,
+    "importHelpers": true,
+    "sourceMap": false,
+    "downlevelIteration": true,
+    "noImplicitReturns": false,
+    "noUnusedParameters": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "types": [
+      "jest",
+      "node"
+    ],
+    "paths": {
+      "@duiba/event-bus": [
+        "packages/event-bus/src"
+      ],
+      "@duiba/*": [
+        "packages/*/src"
+      ]
+    }
+  },
+  "include": [
+    // "packages/global.d.ts",
+    "packages/*/src",
+    // "packages/*/__tests__"
+  ]
+}

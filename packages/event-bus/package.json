@@ -1,0 +1,13 @@
+{
+  "name": "@duiba/event-bus",
+  "version": "1.0.0",
+  "description": "发布订阅通信类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "dist/event-bus.d.ts",
+  "author": "robozy",
+  "license": "ISC",
+  "dependencies": {}
+}
