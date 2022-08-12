@@ -130,11 +130,11 @@ function createConfig(format, output, plugins = []) {
     output: {
       ...output,
       globals: {
-        '@duiba/event-bus': 'EVA',
+        '@newblue/event-bus': 'EVA',
       },
     },
     external: [
-      '@duiba/event-bus',
+      '@newblue/event-bus',
     ],
     plugins: [
       ...plugins,

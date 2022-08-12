@@ -1,5 +1,5 @@
 {
-  "name": "@duiba/event-bus",
+  "name": "@newblue/event-bus",
   "version": "1.0.0",
   "description": "发布订阅通信类",
   "main": "index.js",

@@ -1,6 +1,4 @@
-# DuibaGroup(event-count-down)
-
-![兑吧Logo](https://yun.duiba.com.cn/spark/assets/db1bfaea405341e515cf6537e63573087e826cbe.png)
+# NewBlue(event-count-down)
 
 ## 前言
 
@@ -13,7 +11,7 @@
 ### 📦 Install
 
 ```bash
-yarn add @duiba/event-count-down
+yarn add @newblue/event-count-down
 ```
 
 ### Usage
@@ -23,7 +21,7 @@ yarn add @duiba/event-count-down
         Countdown, //构造函数
         CountdownEventName, //事件名称
         fillZero //是否要填充0
-    } from '@duiba/event-count-down';
+    } from '@newblue/event-count-down';
 ```
 
 ## Contribute

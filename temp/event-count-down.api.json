@@ -160,18 +160,18 @@
     }
   },
   "kind": "Package",
-  "canonicalReference": "@duiba/event-count-down!",
+  "canonicalReference": "@newblue/event-count-down!",
   "docComment": "",
-  "name": "@duiba/event-count-down",
+  "name": "@newblue/event-count-down",
   "members": [
     {
       "kind": "EntryPoint",
-      "canonicalReference": "@duiba/event-count-down!",
+      "canonicalReference": "@newblue/event-count-down!",
       "name": "",
       "members": [
         {
           "kind": "Class",
-          "canonicalReference": "@duiba/event-count-down!Countdown:class",
+          "canonicalReference": "@newblue/event-count-down!Countdown:class",
           "docComment": "",
           "excerptTokens": [
             {
@@ -181,7 +181,7 @@
             {
               "kind": "Reference",
               "text": "EventCenterClass",
-              "canonicalReference": "@duiba/event-count-down!EventCenterClass:class"
+              "canonicalReference": "@newblue/event-count-down!EventCenterClass:class"
             },
             {
               "kind": "Content",
@@ -193,7 +193,7 @@
           "members": [
             {
               "kind": "Constructor",
-              "canonicalReference": "@duiba/event-count-down!Countdown:constructor(1)",
+              "canonicalReference": "@newblue/event-count-down!Countdown:constructor(1)",
               "docComment": "/**\n * Constructs a new instance of the `Countdown` class\n */\n",
               "excerptTokens": [
                 {
@@ -238,7 +238,7 @@
             },
             {
               "kind": "Method",
-              "canonicalReference": "@duiba/event-count-down!Countdown#start:member(1)",
+              "canonicalReference": "@newblue/event-count-down!Countdown#start:member(1)",
               "docComment": "",
               "excerptTokens": [
                 {
@@ -267,7 +267,7 @@
             },
             {
               "kind": "Method",
-              "canonicalReference": "@duiba/event-count-down!Countdown#stop:member(1)",
+              "canonicalReference": "@newblue/event-count-down!Countdown#stop:member(1)",
               "docComment": "",
               "excerptTokens": [
                 {
@@ -303,7 +303,7 @@
         },
         {
           "kind": "TypeAlias",
-          "canonicalReference": "@duiba/event-count-down!CountdownCallback:type",
+          "canonicalReference": "@newblue/event-count-down!CountdownCallback:type",
           "docComment": "",
           "excerptTokens": [
             {
@@ -317,7 +317,7 @@
             {
               "kind": "Reference",
               "text": "RemainTimeData",
-              "canonicalReference": "@duiba/event-count-down!RemainTimeData:interface"
+              "canonicalReference": "@newblue/event-count-down!RemainTimeData:interface"
             },
             {
               "kind": "Content",
@@ -337,7 +337,7 @@
         },
         {
           "kind": "Enum",
-          "canonicalReference": "@duiba/event-count-down!CountdownEventName:enum",
+          "canonicalReference": "@newblue/event-count-down!CountdownEventName:enum",
           "docComment": "",
           "excerptTokens": [
             {
@@ -350,7 +350,7 @@
           "members": [
             {
               "kind": "EnumMember",
-              "canonicalReference": "@duiba/event-count-down!CountdownEventName.RUNNING:member",
+              "canonicalReference": "@newblue/event-count-down!CountdownEventName.RUNNING:member",
               "docComment": "",
               "excerptTokens": [
                 {
@@ -371,7 +371,7 @@
             },
             {
               "kind": "EnumMember",
-              "canonicalReference": "@duiba/event-count-down!CountdownEventName.START:member",
+              "canonicalReference": "@newblue/event-count-down!CountdownEventName.START:member",
               "docComment": "",
               "excerptTokens": [
                 {
@@ -392,7 +392,7 @@
             },
             {
               "kind": "EnumMember",
-              "canonicalReference": "@duiba/event-count-down!CountdownEventName.STOP:member",
+              "canonicalReference": "@newblue/event-count-down!CountdownEventName.STOP:member",
               "docComment": "",
               "excerptTokens": [
                 {
@@ -415,7 +415,7 @@
         },
         {
           "kind": "Function",
-          "canonicalReference": "@duiba/event-count-down!fillZero:function(1)",
+          "canonicalReference": "@newblue/event-count-down!fillZero:function(1)",
           "docComment": "",
           "excerptTokens": [
             {
@@ -458,7 +458,7 @@
         },
         {
           "kind": "Interface",
-          "canonicalReference": "@duiba/event-count-down!RemainTimeData:interface",
+          "canonicalReference": "@newblue/event-count-down!RemainTimeData:interface",
           "docComment": "",
           "excerptTokens": [
             {
@@ -471,7 +471,7 @@
           "members": [
             {
               "kind": "PropertySignature",
-              "canonicalReference": "@duiba/event-count-down!RemainTimeData#count:member",
+              "canonicalReference": "@newblue/event-count-down!RemainTimeData#count:member",
               "docComment": "/**\n * 毫秒数\n */\n",
               "excerptTokens": [
                 {
@@ -497,7 +497,7 @@
             },
             {
               "kind": "PropertySignature",
-              "canonicalReference": "@duiba/event-count-down!RemainTimeData#days:member",
+              "canonicalReference": "@newblue/event-count-down!RemainTimeData#days:member",
               "docComment": "/**\n * 天数\n */\n",
               "excerptTokens": [
                 {
@@ -523,7 +523,7 @@
             },
             {
               "kind": "PropertySignature",
-              "canonicalReference": "@duiba/event-count-down!RemainTimeData#hours:member",
+              "canonicalReference": "@newblue/event-count-down!RemainTimeData#hours:member",
               "docComment": "/**\n * 小时数\n */\n",
               "excerptTokens": [
                 {
@@ -549,7 +549,7 @@
             },
             {
               "kind": "PropertySignature",
-              "canonicalReference": "@duiba/event-count-down!RemainTimeData#minutes:member",
+              "canonicalReference": "@newblue/event-count-down!RemainTimeData#minutes:member",
               "docComment": "/**\n * 分钟数\n */\n",
               "excerptTokens": [
                 {
@@ -575,7 +575,7 @@
             },
             {
               "kind": "PropertySignature",
-              "canonicalReference": "@duiba/event-count-down!RemainTimeData#seconds:member",
+              "canonicalReference": "@newblue/event-count-down!RemainTimeData#seconds:member",
               "docComment": "/**\n * 秒数\n */\n",
               "excerptTokens": [
                 {

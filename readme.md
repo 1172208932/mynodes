@@ -1,10 +1,9 @@
-# DuibaGroup(RobozyNodes)
+# NewBlue(RobozyNodes)
 
-![兑吧Logo](https://yun.duiba.com.cn/spark/assets/db1bfaea405341e515cf6537e63573087e826cbe.png)
 
 ## 前言
 
-参考[eva.js](https://github.com/eva-engine/eva.js)的项目做的
+参考[eva.js](https://github.com/eva-engine/eva.js)
 
 ### 说明
 
@@ -13,3 +12,11 @@
 ### 技术栈：
 
 rollup/ts/...
+
+### 📦 构建
+
+```bash
+npm run build   // 构建全部的npm包
+
+npm run build event-bus   // 构建指点npm包
+```

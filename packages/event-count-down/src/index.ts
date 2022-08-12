@@ -1,4 +1,4 @@
-import { EventCenterClass } from '@duiba/event-bus';
+import { EventCenterClass } from '@newblue/event-bus';
 
 export interface RemainTimeData {
     /** 天数 */

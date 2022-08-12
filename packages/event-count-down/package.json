@@ -1,7 +1,7 @@
 {
-  "name": "@duiba/event-count-down",
+  "name": "@newblue/event-count-down",
   "version": "1.0.0",
-  "description": "基于@duiba/event-bus的倒计时类",
+  "description": "基于@newblue/event-bus的倒计时类",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,6 @@
   "author": "robozy",
   "license": "ISC",
   "dependencies": {
-    "@duiba/event-bus": "^1.0.0"
+    "@newblue/event-bus": "^1.0.0"
   }
 }

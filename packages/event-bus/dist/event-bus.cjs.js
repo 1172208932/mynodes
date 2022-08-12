@@ -112,4 +112,4 @@ var EventCenterClass = /** @class */ (function () {
 var exportEvent = new EventCenterClass();
 
 exports.EventCenterClass = EventCenterClass;
-exports.default = exportEvent;
+exports["default"] = exportEvent;

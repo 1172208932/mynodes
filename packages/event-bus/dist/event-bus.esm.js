@@ -107,5 +107,4 @@ var EventCenterClass = /** @class */ (function () {
 }());
 var exportEvent = new EventCenterClass();
 
-export default exportEvent;
-export { EventCenterClass };
+export { EventCenterClass, exportEvent as default };

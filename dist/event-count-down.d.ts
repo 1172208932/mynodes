@@ -1,4 +1,4 @@
-import { EventCenterClass } from '@duiba/event-bus';
+import { EventCenterClass } from '@newblue/event-bus';
 
 export declare class Countdown extends EventCenterClass {
     private static COUNT_IN_MILLISECOND;

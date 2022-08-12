@@ -1,6 +1,5 @@
-# DuibaGroup(EventBus)
+# NewBlue(EventBus)
 
-![兑吧Logo](https://yun.duiba.com.cn/spark/assets/db1bfaea405341e515cf6537e63573087e826cbe.png)
 
 ## 前言
 
@@ -13,13 +12,13 @@
 ### 📦 Install
 
 ```bash
-yarn add @duiba/event-bus
+yarn add @newblue/event-bus
 ```
 
 ### Usage
 
 ```js
-import EventBus from '@duiba/event-bus';
+import EventBus from '@newblue/event-bus';
 ```
 
 ## Contribute

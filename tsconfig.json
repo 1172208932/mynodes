@@ -28,10 +28,10 @@
       "node"
     ],
     "paths": {
-      "@duiba/event-bus": [
+      "@newblue/event-bus": [
         "packages/event-bus/src"
       ],
-      "@duiba/*": [
+      "@newblue/*": [
         "packages/*/src"
       ]
     }
