@@ -195,8 +195,4 @@ function wxApiPay(data) {
   });
 }
 
-function textfn(){
-    return 'textfn'
-}
-
-export { wxShare, wxBridgePay, wxApiPay, getWxAddress,textfn };
+export { wxShare, wxBridgePay, wxApiPay, getWxAddress };
