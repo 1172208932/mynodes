@@ -4,7 +4,7 @@
 
 ### 说明
 
-基于发布订阅的倒计时
+微信分享方法封装
 
 ## 如何应用？
 
@@ -12,7 +12,7 @@
 
 ```bash
 yarn add @newblue/event-count-down
-npm install @newblue/wx-utils --registry=http://10.200.37.234:4873/
+npm install @newblue/wx-utils --registry=http://10.200.37.236:4873/
 ```
 
 ### Usage
@@ -22,11 +22,6 @@ npm install @newblue/wx-utils --registry=http://10.200.37.234:4873/
         wxShare //微信分享初始化
     } from '@newblue/event-count-down';
 ```
-
-## Contribute
-
-1. `yarn dev` to develop package
-2. `cd test && yarn && yarn dev` to develop test
 
 ## Publish
 

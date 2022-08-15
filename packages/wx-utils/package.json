@@ -1,6 +1,6 @@
 {
   "name": "@newblue/wx-utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "微信方法封装",
   "main": "index.js",
   "scripts": {
