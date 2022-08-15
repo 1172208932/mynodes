@@ -24,6 +24,8 @@ npm run build event-bus   // 构建指点npm包
 
 ```bash
 
+cd packages/wx-utils
+
 // 未登录
 npm adduser --registry  http://10.200.37.236:4873/
 
