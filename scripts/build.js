@@ -3,8 +3,8 @@
 
 USAGE:
 
-$tnpm run build eva.js 构建一个package
-$tnpm run build eva.js plugin-renderer 构建多个 package
+$tnpm run build 构建一个package
+$tnpm run build plugin-renderer 构建多个 package
 $tnpm run build 构建全部package
 
 --all -a      根据模糊匹配构建多个 $tnpm run build plugin-renderer -- --all`，会构建包含`plugin-renderer`的所有package
@@ -16,7 +16,7 @@ $tnpm run build 构建全部package
 
 常用命令
 
-生产环境构建eva.js的cjs和umd包，$tnpm run build eva.js -- -f cjs-umd -p
+生产环境构的cjs和umd包，$tnpm run build -- -f cjs-umd -p
 
 开发环境构建所有plugin，$tnpm run build plugin -- -ad
 */

@@ -1,16 +1,15 @@
 {
-  "name": "@newblue/wx-utils",
-  "version": "1.0.1",
+  "name": "@newblue/wxpage",
+  "version": "1.0.0",
   "description": "微信方法封装",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "types": "dist/wx-utils.d.ts",
+  "types": "dist/wxpage.d.ts",
   "author": "robozy",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
-    "weixin-js-sdk": "^1.6.0"
+    "axios": "^0.27.2"
   }
 }
