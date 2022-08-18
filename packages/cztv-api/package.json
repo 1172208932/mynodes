@@ -1,0 +1,13 @@
+{
+  "name": "@newblue/cztv-api",
+  "version": "1.0.3",
+  "description": "蓝TV客户端jsBridge方法封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "dist/cztv-api.d.ts",
+  "author": "zsj",
+  "license": "ISC",
+  "dependencies": {}
+}
