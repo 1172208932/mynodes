@@ -6,6 +6,7 @@
   },
   "scripts": {
     "build": "node ./scripts/build.js",
+    "buildProd": "npm run build -- -a -p -f cjs-esm-iife-miniprogram",
     "declare": "tsc -d --declarationDir 'types' --emitDeclarationOnly"
   },
   "license": "ISC",
