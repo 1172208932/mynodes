@@ -1,6 +1,6 @@
 {
   "name": "@newblue/cztv-api",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "蓝TV客户端jsBridge方法封装",
   "main": "index.js",
   "scripts": {
